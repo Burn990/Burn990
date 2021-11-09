@@ -2,7 +2,7 @@
 - 👀 I’m interested in developing systems, coding and programming...
 - 🌱 I’m currently in learning phase
 - 💞️ I’m looking to collaborate on AI technology and Algorithmic development 
-- 📫 How to reach me ...Ben.brv@yahoo.com 
+- 📫 How to reach me ...
 
 <!---
 Burn990/Burn990 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
